@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Innoplexus Test</string>
+    <string name="descending">Descending</string>
+    <string name="ascending">Ascending</string>
+    <string name="dummy_name">dummy_name</string>
+    <string name="dummy_email">dummy_email</string>
+
+    <!--App Message-->
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="connection_error">Internet connection lost!</string>
+    <string name="loading_contacts">Loading Contacts</string>
+</resources>
